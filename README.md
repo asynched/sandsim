@@ -4,4 +4,4 @@ A simple demo on sand falling down using raylib.
 
 ## Preview
 
-![Demo](demo.gif)
+![Demo](resources/demo.gif)
